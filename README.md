@@ -7,4 +7,5 @@
 
 
 ##### For more details on the cohort and findings
-[Supplement File](Supplement_File.docx)
+<a href="Supplement_File.docx" download>Download the Supplement File</a>
+
