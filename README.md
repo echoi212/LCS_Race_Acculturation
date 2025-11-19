@@ -2,7 +2,7 @@
 
 ## Baseline Characteristics and Lung Cancer Screening Eligibility in Asian-American and White patients with lung cancer 
 
-![Alt text](https://github.com/echoi212/LCS_Race_Acculturation/blob/main/Table1.png?raw=true)
+![Alt text](https://github.com/echoi212/LCS_Race_Acculturation/blob/main/BaselineCharacteristics.jpg?raw=true)
 
 
 
